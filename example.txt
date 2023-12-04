@@ -1,0 +1,7 @@
+task1 5 1
+task2 3 2
+task2 0 3
+task3 1 4
+task1 0 5
+task3 0 6
+task4 10 7
